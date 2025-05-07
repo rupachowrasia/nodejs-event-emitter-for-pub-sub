@@ -8,6 +8,7 @@
 - Async task management (e.g., background workers)
 - Microservices event communication
 - Streaming APIs
+- Real-world use case - chat app, ticket system and logger
 
 ## 📚 Key Methods
 - emitter.on(): Adds an event listener
