@@ -23,7 +23,6 @@
 ## 🛠 Tech Stack
 
 - Node.js 
-- Express
 - Node.js events module
 
 ## 📦 Installation
